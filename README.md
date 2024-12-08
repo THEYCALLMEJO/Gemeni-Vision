@@ -1,6 +1,6 @@
 # Gemini Vision | Gemini Vision
 
-![Gemini Vision ](https://github.com/THEYCALLMEJO/Gemeni-Vision/blob/master/Demo.mp4)
+![Gemini Vision ](Demo.gif)
 
 ## Overview 
 
@@ -84,3 +84,7 @@ repository/
 3. The input query and image are sent to the Gemini model for processing.
 4. The Gemini model generates a response based on the image and the user's question.
 5. The application displays the response to the user.```
+
+## Contact Me 
+Eyosias Mulugeta
+eyosiasmulugeta16@gmail.com
