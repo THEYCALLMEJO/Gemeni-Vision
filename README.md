@@ -1,6 +1,6 @@
 # Gemini Vision | Gemini Vision
 
-![App's Demo](https://raw.githubusercontent.com/THEYCALLMEJO/Upgraded-Gemeni-Powerd-Chat-Bot/master/Demo.mp4)
+![App's Demo](https://raw.githubusercontent.com/THEYCALLMEJO/Gemeni-Vision/master/Demo.mp4)
 
 ## Overview 
 
