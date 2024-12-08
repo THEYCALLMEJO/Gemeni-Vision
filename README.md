@@ -1,6 +1,6 @@
 # Gemini Vision | Gemini Vision
 
-![Gemini Vision ](Demo.mp4)
+![Gemini Vision ](https://github.com/THEYCALLMEJO/Gemeni-Vision/blob/master/Demo.mp4)
 
 ## Overview 
 
