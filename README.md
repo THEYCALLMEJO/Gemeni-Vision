@@ -1,7 +1,7 @@
 # Gemini Vision | Gemini Vision
 
-![App's Demo](https://github.com/THEYCALLMEJO/Gemeni-Vision/blob/master/Demo.mp4)
 
+![Demo Image](https://raw.githubusercontent.com/THEYCALLMEJO/BMI-calculator/master/demo.png)
 ## Overview 
 
 This project is a Streamlit-based application that allows users to upload images and ask questions about them using the Gemini AI model. The application leverages generative AI to provide insightful responses based on the uploaded images and user queries.
